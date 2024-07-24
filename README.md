@@ -81,6 +81,9 @@ Train the VGG16 classifier on the extracted images.
 python train_vgg16_classifier.py
 ```
 
+![image](https://github.com/user-attachments/assets/9063e1a1-241d-4b5f-b5fa-441df51fd557)
+
+
 #### 8. Train XGBoost Classifier
 
 Train the XGBoost classifier on the extracted embeddings.
