@@ -133,7 +133,3 @@ You can download the pre-trained models from the following link: [Trained Models
 ### Contact
 
 For any issues or questions, please contact [zakaria.hamane1@gmail.com](mailto:zakaria.hamane1@gmail.com).
-
----
-
-This README provides a comprehensive guide to set up and run the project, ensuring all steps and file locations are clearly explained.
