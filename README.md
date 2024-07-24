@@ -28,8 +28,8 @@ This project involves processing MRI image data, extracting relevant features us
 Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-repo-url.git
-cd your-repo-directory
+git clone [https://github.com/your-repo-url.git](https://github.com/zakaria-hamane/Mortality-Prediction-Brain-MRI)
+cd Mortality-Prediction-Brain-MRI
 ```
 
 #### 2. Set Up the Virtual Environment
@@ -113,6 +113,9 @@ Perform SHAP analysis to interpret the XGBoost model.
 python shap_xgboost.py
 ```
 
+Trained Models
+You can download the pre-trained models from the following link: [Trained Models](https://drive.google.com/file/d/1fr77LGaIuRwkGLpc9RX4pfZYGcsN2Mhl/view?usp=drive_link).
+
 ### Notes
 
 - Ensure that the data directory structure matches the expected format.
@@ -125,7 +128,7 @@ python shap_xgboost.py
 
 ### Contact
 
-For any issues or questions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any issues or questions, please contact [zakaria.hamane1@gmail.com](mailto:zakaria.hamane1@gmail.com).
 
 ---
 
