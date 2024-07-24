@@ -92,6 +92,9 @@ Train the XGBoost classifier on the extracted embeddings.
 python train_xgboost_classifier.py
 ```
 
+![image](https://github.com/user-attachments/assets/15c5de37-4ccf-45d3-af90-7b84508a4edb)
+
+
 #### 9. Train XGBoost Classifier Using Only Embeddings
 
 Train the XGBoost classifier using only embeddings.
