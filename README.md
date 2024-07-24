@@ -28,7 +28,7 @@ This project involves processing MRI image data, extracting relevant features us
 Clone the repository to your local machine.
 
 ```bash
-git clone [https://github.com/your-repo-url.git](https://github.com/zakaria-hamane/Mortality-Prediction-Brain-MRI)
+git clone https://github.com/zakaria-hamane/Mortality-Prediction-Brain-MRI
 cd Mortality-Prediction-Brain-MRI
 ```
 
