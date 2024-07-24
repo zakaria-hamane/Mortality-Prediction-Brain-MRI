@@ -5,7 +5,7 @@
 This project involves processing MRI image data, extracting relevant features using VGG16 models, and classifying the data using XGBoost models. The data used in this project is sourced from the [UCSF-PDGM collection](https://www.cancerimagingarchive.net/collection/ucsf-pdgm/).
 
 ### Directory Structure
-
+- `rawdata/`: Download MRI archives.
 - `embeddings/`: Contains embeddings extracted from MRI images.
 - `models/`: Contains trained models for image classification.
   - `image_classifier/`: VGG16 models for different MRI types.
